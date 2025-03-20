@@ -1,4 +1,4 @@
-# MNIST Classifier - Deep Learning Basics  
+# Deep Learning Basics  
 
 This repository provides a beginner-friendly introduction to deep learning concepts. It demonstrates how to build, train, and evaluate a simple neural network using TensorFlow and Keras.  
 
